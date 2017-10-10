@@ -11,6 +11,8 @@ Quote analyzer website for Japanese Bitcoin Exchanges
 - Coincheck
 - Quoine
 - Zaif
+- Bitbank.cc
+- BtcBox
 
 # Powered by
 - TypeScript
